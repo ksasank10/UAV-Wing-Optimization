@@ -6,9 +6,8 @@ Airfoils:
 - Selig S5010 (modern UAV airfoil)
 
 Flow Conditions:
-- Reynolds number: 200,000
 - Mach number: ~0 (incompressible)
-- Angle of attack sweep: -2° to 12°
+- Angle of attack sweep: -2° to 12° with an increment of 2°
 - Purpose: Compare efficiency, stall behavior, and robustness for small UAV wings
 
 Solver Philosophy:
